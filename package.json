@@ -4,6 +4,7 @@
   "description": "Typescript course provided by Cod3r",
   "main": "index.js",
   "scripts": {
+    "start": "live-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/julianFBarbosa/typescript-course/issues"
   },
-  "homepage": "https://github.com/julianFBarbosa/typescript-course#readme"
+  "homepage": "https://github.com/julianFBarbosa/typescript-course#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
 }
