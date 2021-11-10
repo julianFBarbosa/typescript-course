@@ -1,2 +1,2 @@
-const a: string = 'teste TS! 222';
+const a: string = 'teste TS!';
 console.log('a', a)
