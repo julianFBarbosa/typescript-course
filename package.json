@@ -1,0 +1,22 @@
+{
+  "name": "typescript-course",
+  "version": "0.1.0",
+  "description": "Typescript course provided by Cod3r",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/julianFBarbosa/typescript-course.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Julian Barbosa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/julianFBarbosa/typescript-course/issues"
+  },
+  "homepage": "https://github.com/julianFBarbosa/typescript-course#readme"
+}
